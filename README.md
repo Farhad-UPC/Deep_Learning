@@ -1,6 +1,6 @@
 # Deep_Learning
 Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on artificial neural networks. Learning can be supervised, semi-supervised or unsupervised.
------------------------------------------------------------------------------------------------------------
+--------
 
 
 Gradient_Descent ------> Gradient descent is a first-order iterative optimization algorithm for finding the minimum of a function. 

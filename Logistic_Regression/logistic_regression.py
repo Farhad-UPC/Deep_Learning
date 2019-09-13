@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 #In other words, the logistic regression model predicts P(Y=1) as a function of X.
 #Dataset resource : http://archive.ics.uci.edu/ml/index.php, It includes 41,188 records (customers) and 21 fields.
 
-url = "https://raw.githubusercontent.com/Farhad-UPC/Logistic_Regression/master/bank.csv"
+url = "https://raw.githubusercontent.com/Farhad-UPC/Deep_Learning/master/Logistic_Regression/bank.csv"
 col_separator = ','
 bank_data = pd.read_csv(url, header = 0, sep = col_separator)
 print (bank_data.head (10))
